@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPORTE",ESPN Brasil
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTE",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8
+#EXTINF:-1 group-title="ESPORTE",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ESPORTE",ESPN
+https://playplusespn-lh.akamaihd.net:443/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ESPORTES",
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ABERTOS",Record
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="NOTÍCIAS",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+#EXTINF:-1 group-title="ESPORTES",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?hd=10&rebase=on
+#EXTINF:-1 group-title="ESPORTES",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?hd=10&rebase=on
+#EXTINF:-1 group-title="ESPORTE",FOX Sports
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
