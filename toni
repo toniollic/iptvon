@@ -1,0 +1,47 @@
+#EXTM3U
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",cartoon retro
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1278177361.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",chaves
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",todo mundo odeia o cris
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",locomotion
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv montana
+https://srv2.zcast.com.br/oney7654/oney7654/chunklist_w1330115682.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv summer
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w319608775.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv da ilha
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1626875642.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w1892364390.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",cine5
+http://win1.yayin.com.tr/cine5/cine5/chunklist_w2022017956.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv marica
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist_w1981740171.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv klonos
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",mister bin
+https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/chunklist_w2081600159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv mancete
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w40607660.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",series antiga
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w91806438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",tv acritica
+https://live-ak.vimeocdn.com/exp=1597512651~acl=%2F985fb557-ace1-47ab-8ef8-ac86bea6d376%2F%2A~hmac=e9ab4ebc91f2524d35b822dda479b9f84eff9cde84b66d142c1ecac5d08a1c01/985fb557-ace1-47ab-8ef8-ac86bea6d376/chunklist_b3256000.m3u8?max_segments=10
+#EXTINF:-1 tvg-id="" tvg-logo="",tv morena
+https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/chunklist_w1819055707.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",
